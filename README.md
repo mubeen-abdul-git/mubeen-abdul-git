@@ -39,54 +39,51 @@ mubeen@bengaluru:~$ whoami
 > international eCommerce platform (Mexico · Chile · Canada). I like systems that scale, APIs that
 > don't break, and dashboards that stay green at 3am.
 >
-> 🔭 Currently building a Spring Security + Kafka real-time workflow engine
-> 🧪 Exploring LLM-integrated backend tooling
+> 🔭 Currently building a Spring Security + Kafka real-time workflow engine </br>
+> 🧪 Exploring LLM-integrated backend tooling</br>
 > 🎯 Open to Backend / Platform Engineering / Distributed Systems roles
 
 <br/>
 
-<div align="center">
+<div align="Left">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A1A2E,100:0D1117&height=3&width=100%25" width="100%"/>
 
-## 🧠 Tech Stack
-
-<br/>
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,py&theme=dark" />
-
-**Backend & APIs**
-<br/>
-<img src="https://skillicons.dev/icons?i=spring,graphql,hibernate&theme=dark" />
-
-**Data & Messaging**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,kafka,redis&theme=dark" />
-
-**Cloud, DevOps & Tooling**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,azure,gcloud,git&theme=dark" />
-
-**Testing & Observability**
-<br/>
-<img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=dark" /> &nbsp;
+### 🧠 Tech Stack
+ 
+<table>
+<tr>
+<td align="right"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=java,py&theme=dark" /></td>
+</tr>
+<tr>
+<td align="right"><b>Backend & APIs</b></td>
+<td><img src="https://skillicons.dev/icons?i=spring,graphql,hibernate&theme=dark" /></td>
+</tr>
+<tr>
+<td align="right"><b>Data & Messaging</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,kafka,redis&theme=dark" /></td>
+</tr>
+<tr>
+<td align="right"><b>Cloud & DevOps</b></td>
+<td><img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,azure,gcloud,git&theme=dark" /></td>
+</tr>
+<tr>
+<td align="right"><b>Testing & Observability</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=dark" />&nbsp;
 <img src="https://img.shields.io/badge/JUnit-0d1117?style=for-the-badge&logo=junit5&logoColor=25A162" />
 <img src="https://img.shields.io/badge/Splunk-0d1117?style=for-the-badge&logo=splunk&logoColor=ffffff" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A1A2E,100:0D1117&height=3&width=100%25" width="100%"/>
-
-</div>
-
-<br/>
+</td>
+</tr>
+</table>
 
 ## 💼 Experience Log
 
 ```text
-[Nov 2025 – Present]   Freelance Software Developer                          Remote
-[Jun 2025 – Nov 2025]  Java Software Engineer  @ West Coast Consulting → Walmart Global Tech
-[Jan 2024 – Jun 2025]  Java Backend Developer  @ mthree → Walmart Global Tech
+[Nov 2025 – Present ]  Freelance Software Developer   Remote
+[Jun 2025 – Nov 2025]  Java Software Engineer         @ West Coast Consulting → Walmart Global Tech
+[Jan 2024 – Jun 2025]  Java Backend Developer         @ mthree → Walmart Global Tech
 ```
 
 <details>
